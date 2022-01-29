@@ -1,0 +1,42 @@
+.gato, .gato2, .gato3, .gato4, .gato5, .gato6, .gato7, .gato8 {
+    height: 200px;
+    margin: 70px;
+    
+}
+.row {
+    background-color: cadetblue;
+    padding: 1px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row2 {
+    background-color: darksalmon;
+    padding: 1px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row3 {
+    background-color: yellowgreen;
+    padding: 1px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    width: 950px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 3pc;
+    margin: auto;
+    color: grey;
+}
